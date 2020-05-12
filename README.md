@@ -1,2 +1,2 @@
-# fun-with-clojurescript
-Collection of mini experiments and fun with ClojureScript
+# fun-with-clojur
+Collection of mini experiments and fun with Clojure & ClojureScript
